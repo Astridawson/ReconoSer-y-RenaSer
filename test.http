@@ -1,0 +1,14 @@
+### OBTENER TODOS LOS USUARIOS
+
+### Ruta usuarios
+GET http://localhost:9000/api/obtenerUsuario
+
+####Ruta crear
+POST http://localhost:9000/api/crearUsuario
+
+###Ruta modificar
+PUT http://localhost:9000/api/modificarUsuario/:_id
+
+###Ruta eliminar
+
+DELETE http://localhost:9000/api/eliminarUsuario/:_id
