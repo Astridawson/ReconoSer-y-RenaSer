@@ -216,3 +216,7 @@ footer h5 {
 html {
     scroll-behavior: smooth;
 }
+
+#noDecor {
+    text-decoration: none;
+}
